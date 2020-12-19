@@ -1,6 +1,6 @@
 {
-	"name" : "Reurl.io redirect your url",
-	"short_name" : "Reurl.io",
+	"name" : "Urlz.io shortens your link",
+	"short_name" : "Urlz.io",
 	"icons" : [
 		{
 			"src": "/imgs/favicon/44x44.png",
@@ -81,10 +81,10 @@
 	"theme_color" : "#ffffff",
 	"background_color" : "#ffffff",
 	"display" : "standalone",
-	"start_url" : "https://reurl.io/",
+	"start_url" : "https://urlz.io/",
 	"lang" : "English",
 	"screenshots" : [],
-	"description" : "reurl.io is a web app to redirect a web, developed on Google App Script.",
+	"description" : "Urlz.io shortens your link and keep it forever.",
 	"orientation" : "portrait",
 	"scope" : "/",
 	"generated" : "undefined"
